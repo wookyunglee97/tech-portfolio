@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/chloewlee',
+        linkedin: 'chloewlee',
         twitter: '',
         github: 'wookyunglee97',
     },
